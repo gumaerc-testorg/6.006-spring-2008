@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides recitation slides courtesy of Victor Costan and
+  supporting files.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
 title: Recitations
 uid: 977e8874-11d8-d029-4782-2552324c99e8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 These recitation slides are courtesy of Victor Costan, one of the course TAs, and are used with permission.
@@ -36,7 +42,7 @@ SUPPORTING FILES
 R1
 {{< tdclose >}}
 {{< tdopen >}}
-Document distance in Python (docdist{1,2,3,4}.py) ([PDF]({{< baseurl >}}/resources/recitation01))
+Document distance in Python (docdist{1,2,3,4}.py) ({{% resource_link 2fe73f0f-61f1-43e7-b919-cd3cb921d1c8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -48,12 +54,12 @@ Document distance in Python (docdist{1,2,3,4}.py) ([PDF]({{< baseurl >}}/resourc
 R2
 {{< tdclose >}}
 {{< tdopen >}}
-Python cost model, review for asymptotic notation and mergesort ([PDF]({{< baseurl >}}/resources/recitation02))
+Python cost model, review for asymptotic notation and mergesort ({{% resource_link 2035a9a2-54b6-0ac6-da85-944bba3a48b1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Zipped data (numbers) ([ZIP]({{< baseurl >}}/resources/recitation02_data)) (This zip file includes: 2 .jpg files, 1 .gz file, 1 .tiff file, 1 .numbers file, and 1 .pkginfo file.)
+Zipped data (numbers) ({{% resource_link 34e6c343-139f-dd75-4030-9daf829779e0 "ZIP" %}}) (This zip file includes: 2 .jpg files, 1 .gz file, 1 .tiff file, 1 .numbers file, and 1 .pkginfo file.)
 
 [Python Cost Model](/ans7870/6/6.006/s08/lecturenotes/py_cost.htm)
 {{< tdclose >}}
@@ -70,10 +76,10 @@ Zipped data (numbers) ([ZIP]({{< baseurl >}}/resources/recitation02_data)) (This
 R3
 {{< tdclose >}}
 {{< tdopen >}}
-Binary search trees ([PDF]({{< baseurl >}}/resources/recitation03))
+Binary search trees ({{% resource_link 06b7d216-f76e-9941-83e7-f8affc8397c6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Code for binary search trees augmented with subtree size ([PY](/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/recitations/bstsize_r.py))
+Code for binary search trees augmented with subtree size ({{% resource_link e31d1f40-9ec2-d488-d972-9a18a3b73f6d "PY" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,10 +88,10 @@ Code for binary search trees augmented with subtree size ([PY](/courses/electric
 R4
 {{< tdclose >}}
 {{< tdopen >}}
-AVL Trees (balanced binary search trees) ([PDF]({{< baseurl >}}/resources/recitation04))
+AVL Trees (balanced binary search trees) ({{% resource_link 113ace03-3776-d7ff-b3e6-2334a3acdba4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Code for AVL trees (uses the BST code from R3) ([PY](/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/recitations/avl_r.py))
+Code for AVL trees (uses the BST code from R3) ({{% resource_link 3328a09b-fcac-5b0a-ede0-e511ebd98051 "PY" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,10 +106,10 @@ Code for AVL trees (uses the BST code from R3) ([PY](/courses/electrical-enginee
 R5
 {{< tdclose >}}
 {{< tdopen >}}
-Hashing in Python, mutability ([PDF]({{< baseurl >}}/resources/recitation05))
+Hashing in Python, mutability ({{% resource_link 597c0122-692c-795f-75f8-b266e8a2c3e0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-The dangers of mutable dictionary keys ([PY](/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/recitations/mutable_dictkey.py))
+The dangers of mutable dictionary keys ({{% resource_link c325ca17-99dd-86ed-caf6-13d3afd00ed3 "PY" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,10 +118,10 @@ The dangers of mutable dictionary keys ([PY](/courses/electrical-engineering-and
 R6
 {{< tdclose >}}
 {{< tdopen >}}
-Karp-Rabin review, rolling hashes principles and code ([PDF]({{< baseurl >}}/resources/recitation06))
+Karp-Rabin review, rolling hashes principles and code ({{% resource_link 8e4bb819-e77b-efa6-38a4-cbe1fee9c261 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Rolling hash code ([PY](/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/recitations/rolling_hash.py))
+Rolling hash code ({{% resource_link 43cf6b59-b767-a162-0bbb-19603a89793a "PY" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,12 +134,12 @@ R7
 
 Open addressing: theory review, Python code
 
-More rolling hashes ([PDF]({{< baseurl >}}/resources/recitation07))
+More rolling hashes ({{% resource_link c13f7ea9-5b92-5089-8cdc-f86abacad258 "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Open addressing code ([PY](/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/recitations/open_addressing_explicit.py))
+Open addressing code ({{% resource_link 6e69e3f3-5036-ed4e-e806-c46a843596a6 "PY" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +158,7 @@ R8
 
 Overview of sorting methods
 
-Heaps as data structures: principles, sorting, priority queues ([PDF]({{< baseurl >}}/resources/recitation08))
+Heaps as data structures: principles, sorting, priority queues ({{% resource_link a29d132e-29f4-1225-b5d0-2713875ac3d3 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -166,7 +172,7 @@ Heaps as data structures: principles, sorting, priority queues ([PDF]({{< baseur
 R9
 {{< tdclose >}}
 {{< tdopen >}}
-Quiz review: interesting problems ([PDF]({{< baseurl >}}/resources/recitation09))
+Quiz review: interesting problems ({{% resource_link 540dcdd7-75df-0570-808f-0644e276be9c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -196,14 +202,14 @@ Counting, radix and bucket sorting, gas simulation
 R11
 {{< tdclose >}}
 {{< tdopen >}}
-Breadth-first search and depth-first search ([PDF]({{< baseurl >}}/resources/recitation11))
+Breadth-first search and depth-first search ({{% resource_link a27380e8-7a41-5d4c-2e95-04f9f736b5e1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Code for breadth-first search ([PY](/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/recitations/bfs.py))
+Code for breadth-first search ({{% resource_link a55d4d05-49da-8e57-fac4-5ed852fe906e "PY" %}})
 
-Code for depth-first search ([PY](/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/recitations/dfs.py))
+Code for depth-first search ({{% resource_link 41c3e756-48f9-30be-2bf6-fe8b787b4c85 "PY" %}})
 
 
 {{< tdclose >}}
@@ -220,7 +226,7 @@ Code for depth-first search ([PY](/courses/electrical-engineering-and-computer-s
 R12
 {{< tdclose >}}
 {{< tdopen >}}
-Assistance for problem set ([PDF]({{< baseurl >}}/resources/recitation12))
+Assistance for problem set ({{% resource_link 4f64b4e4-f729-4e98-6574-166085a86c82 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -254,7 +260,7 @@ R14
 
 Hands-on Dijkstra: pseudocode, preconditions, examples, why it works
 
-Priority queues: review, extended Python implementation ([PDF]({{< baseurl >}}/resources/recitation14))
+Priority queues: review, extended Python implementation ({{% resource_link f092477e-826b-26a9-a26f-d192bd2ec2b2 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -286,7 +292,7 @@ Array implementation of Dijkstra
 R16
 {{< tdclose >}}
 {{< tdopen >}}
-Hands-on dynamic programming: big ideas, memoization in Fibonacci, crazy cards, Dijkstra and Bellman-Ford algorithm as dynamic programming ([PDF]({{< baseurl >}}/resources/recitation16))
+Hands-on dynamic programming: big ideas, memoization in Fibonacci, crazy cards, Dijkstra and Bellman-Ford algorithm as dynamic programming ({{% resource_link d0d1b066-6eda-54f5-b857-17b26d0f5d2b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -298,7 +304,7 @@ Hands-on dynamic programming: big ideas, memoization in Fibonacci, crazy cards, 
 R17
 {{< tdclose >}}
 {{< tdopen >}}
-More dynamic programming: beating Super Mario Brothers, getting points back on tests (LCS), Crazy Eights ([PDF]({{< baseurl >}}/resources/recitation17))
+More dynamic programming: beating Super Mario Brothers, getting points back on tests (LCS), Crazy Eights ({{% resource_link c107a54c-3aa4-2950-7da4-b01c85a2e9dd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -310,7 +316,7 @@ More dynamic programming: beating Super Mario Brothers, getting points back on t
 R18
 {{< tdclose >}}
 {{< tdopen >}}
-Even more dynamic programming: maximum-sum sub-array, more Tetris ([PDF]({{< baseurl >}}/resources/recitation18))
+Even more dynamic programming: maximum-sum sub-array, more Tetris ({{% resource_link 2722a99c-1b49-cc24-b994-a9e08473a3d6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -347,9 +353,9 @@ Dynamic programming practice: live Python coding, dominating sets, structural dy
 
 Live Python Coding problems (problem statement, tests, and solutions are included):
 
-\- Matrix chain multiplication ([ZIP]({{< baseurl >}}/resources/r21_parens)) (This zip file includes: 3 .py files, 1 .pyc file, 1 .rb file, and 6 data files.)
+\- Matrix chain multiplication ({{% resource_link 7ef5586b-cc38-569c-c531-071caff31877 "ZIP" %}}) (This zip file includes: 3 .py files, 1 .pyc file, 1 .rb file, and 6 data files.)
 
-\- Longest zig-zag subsequence ([ZIP]({{< baseurl >}}/resources/r21_sequence)) (This zip file includes: 3 .py files, 1 .pyc file, 1 .rb file, and 4 data files.)
+\- Longest zig-zag subsequence ({{% resource_link 180ea870-3e4c-9d04-c354-97cfedfdd3f0 "ZIP" %}}) (This zip file includes: 3 .py files, 1 .pyc file, 1 .rb file, and 4 data files.)
 
 
 {{< tdclose >}}
@@ -390,7 +396,7 @@ Strassen's algorithm for fast matrix multiplication is covered in CRLS, chapter 
 R23
 {{< tdclose >}}
 {{< tdopen >}}
-Review for the final exam ([PDF]({{< baseurl >}}/resources/recitation23))
+Review for the final exam ({{% resource_link d85d1907-e006-1aae-7847-f9872962d1c5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  

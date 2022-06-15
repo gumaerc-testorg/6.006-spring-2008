@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides the list of readings assigned for the lecture sessions.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 0946f443-7502-b62e-008a-9ec985833285
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 In the table below, readings listed as CLRS are taken from the course textbook:
