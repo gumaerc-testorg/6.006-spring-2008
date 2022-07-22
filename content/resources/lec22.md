@@ -6,6 +6,7 @@ file: /courses/6-006-introduction-to-algorithms-spring-2008/2ca17b35ce6a91d78745
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on dynamic programming, piano fingering, structural DP (trees), vertex cover, dominating set, treewidth, planar graphs, and folding.
-

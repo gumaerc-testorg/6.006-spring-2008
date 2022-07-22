@@ -7,6 +7,7 @@ file: /courses/6-006-introduction-to-algorithms-spring-2008/180ea8703e4c9d04c354
 file_type: application/zip
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Live Python Coding problems (problem statement, tests, and solutions are included) for Recitation 21 on longest zig-zag subsequence. (This zip file includes: 3 .py files, 1 .pyc file, 1 .rb file, and 6 data files.)
-

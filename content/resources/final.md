@@ -5,6 +5,7 @@ file: /courses/6-006-introduction-to-algorithms-spring-2008/fa8475a5b4cb57d5e857
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Practice problems to prepare students for the Final Exam.
-

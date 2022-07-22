@@ -6,6 +6,7 @@ file: /courses/6-006-introduction-to-algorithms-spring-2008/f7cb95d41e935e82349b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on sorting, linear bounds, sorting lower bounds, decision trees, linear-time sorting, and counting sort.
-

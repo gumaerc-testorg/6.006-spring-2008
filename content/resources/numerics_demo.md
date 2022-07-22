@@ -6,6 +6,7 @@ file: /courses/6-006-introduction-to-algorithms-spring-2008/3de9048abfd4655db6c0
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Source code for a numerics demonstration supporting Lecture 23. (This zip file includes: 14 .js files, 2 .html files, 1 .css file, and 1 .project file.)
-

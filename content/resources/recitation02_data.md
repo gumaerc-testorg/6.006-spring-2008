@@ -6,6 +6,7 @@ file: /courses/6-006-introduction-to-algorithms-spring-2008/34e6c343139fdd754030
 file_type: application/zip
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting files for Recitation 2. (This zip file includes: 2 .jpg files, 1 .gz file, 1 .tiff file, 1 .numbers file, and 1 .pkginfo file.)
-

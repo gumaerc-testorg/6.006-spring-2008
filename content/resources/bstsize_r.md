@@ -6,6 +6,7 @@ file: /courses/6-006-introduction-to-algorithms-spring-2008/e31d1f409ec2d488d972
 file_type: text/plain
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Code for binary search trees
 uid: e31d1f40-9ec2-d488-d972-9a18a3b73f6d
 ---
 Supporting Python file for Recitation 3 on code for binary search trees augmented with subtree size.
-

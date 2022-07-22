@@ -5,6 +5,7 @@ file: /courses/6-006-introduction-to-algorithms-spring-2008/41c3e75648f930be2bf6
 file_type: text/plain
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Code for depth-first search
 uid: 41c3e756-48f9-30be-2bf6-fe8b787b4c85
 ---
 Supporting Python file for Recitation 11 on code for depth-first search.
-

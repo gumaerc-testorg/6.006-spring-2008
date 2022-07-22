@@ -5,6 +5,7 @@ file: /courses/6-006-introduction-to-algorithms-spring-2008/a55d4d0549da8e57fac4
 file_type: text/plain
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Code for breadth-first search
 uid: a55d4d05-49da-8e57-fac4-5ed852fe906e
 ---
 Supporting Python file for Recitation 11 on code for breadth-first search.
-

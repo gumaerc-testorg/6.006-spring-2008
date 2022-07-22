@@ -5,6 +5,7 @@ file: /courses/6-006-introduction-to-algorithms-spring-2008/43cf6b59b767a1620bbb
 file_type: text/plain
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Rolling hash code
 uid: 43cf6b59-b767-a162-0bbb-19603a89793a
 ---
 Support Python file for Recitation 6 on rolling hash code.
-

@@ -5,6 +5,7 @@ file: /courses/6-006-introduction-to-algorithms-spring-2008/2fe73f0f61f143e7b919
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Recitation slides on document distance in Python (docdist{1,2,3,4}.py).
-

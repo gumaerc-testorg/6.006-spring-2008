@@ -7,6 +7,7 @@ file: /courses/6-006-introduction-to-algorithms-spring-2008/48cfd556ecabcab1df19
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting file for Problem set 5. Dijkstra code. (This zip file includes: 1 .lnk file, 1 .nod file, 5 .py files, and 3 .txt files. Note that nhpn.nod and nhpn.lnk are text files, and should be opened in a text editor.)
-

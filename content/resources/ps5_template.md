@@ -5,6 +5,7 @@ file: /courses/6-006-introduction-to-algorithms-spring-2008/2436c51154bf793ec024
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem set 5 template
 uid: 2436c511-54bf-793e-c024-8a27a4fd9994
 ---
 LaTeX template for Problem set 5.
-

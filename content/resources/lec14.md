@@ -6,6 +6,7 @@ file: /courses/6-006-introduction-to-algorithms-spring-2008/cdc627fbd05edbe0e9a4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on searching, BFS vs. DFS, job scheduling, topological sort, intractable problems, P, NP, and NP-completeness.
-

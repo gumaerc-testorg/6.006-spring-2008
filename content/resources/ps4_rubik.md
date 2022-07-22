@@ -6,6 +6,7 @@ file: /courses/6-006-introduction-to-algorithms-spring-2008/1118bef388d5c8d93a86
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting file for Problem set 4. Rubik's Cube code. (This zip file includes: 7 .py files and 1 .txt file.)
-

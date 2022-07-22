@@ -6,6 +6,7 @@ file: /courses/6-006-introduction-to-algorithms-spring-2008/f092477e826b26a9a26f
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Recitation slides on Dijkstra (pseudocode, preconditions, examples, why it works) and priority queues (review, extended Python implementation).
-

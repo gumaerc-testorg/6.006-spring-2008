@@ -5,6 +5,7 @@ file: /courses/6-006-introduction-to-algorithms-spring-2008/6e69e3f35036ed4ee806
 file_type: text/plain
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Open addressing code
 uid: 6e69e3f3-5036-ed4e-e806-c46a843596a6
 ---
 Support Python file for Recitation 7 on open addressing code.
-

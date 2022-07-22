@@ -6,6 +6,7 @@ file: /courses/6-006-introduction-to-algorithms-spring-2008/75a3080a460fb79c93d0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on sorting, insertion sort, merge sort, selection sort, and heaps.
-

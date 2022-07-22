@@ -6,6 +6,7 @@ file: /courses/6-006-introduction-to-algorithms-spring-2008/d0d1b0666eda54f5b857
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Recitation slides on dynamic programming: big ideas, memoization in Fibonacci, crazy cards, Dijkstra, and Bellman-Ford algorithm.
-

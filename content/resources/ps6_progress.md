@@ -6,6 +6,7 @@ file: /courses/6-006-introduction-to-algorithms-spring-2008/8935ea79af299bce6930
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting file for Problem set 6. Progress code. (This zip file includes: 2 .py files.)
-
