@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section provides information on the recommended text and links to
+  related resources on using Python and LaTex.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 769009ba-e07c-3f5e-61b8-3af4764065df
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Recommended Text
@@ -31,7 +39,7 @@ LaTeX
 
 [LaTeX Symbols](http://www.artofproblemsolving.com/wiki/index.php/LaTeX:Symbols)
 
-A (Not So) Short Introduction to LaTeX2e (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.2 MB](http://tug.ctan.org/tex-archive/info/lshort/english/lshort.pdf))
+A (Not So) Short Introduction to LaTeX2e ([PDF - 2.2 MB](http://tug.ctan.org/tex-archive/info/lshort/english/lshort.pdf))
 
 [LyX for Windows](http://wiki.lyx.org/Windows/Windows) (IDE for Windows)
 

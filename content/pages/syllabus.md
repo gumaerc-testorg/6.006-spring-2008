@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  Course 6 requirements, lectures, recitations, problem sets, exams, grading policy,
+  collaboration policy, the textbook, and homework guidelines.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 04938996-792c-2a5d-bcb8-1d5371475def
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

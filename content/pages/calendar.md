@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture sessions, recitation
+  sessions, and key dates for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 0fbe5d46-b816-de10-cfac-20026dcefc2b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This table provides information about both the lecture (L) and recitation (R) sessions.
