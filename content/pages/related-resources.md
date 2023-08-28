@@ -2,6 +2,7 @@
 content_type: page
 description: This section provides information on the recommended text and links to
   related resources on using Python and LaTex.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -11,29 +12,25 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+## Recommended Text
 
-Recommended Text
-----------------
+Miller, Bradley, and David Ranum. *Problem Solving with Algorithms and Data Structures Using Python*. Wilsonville, OR: Franklin, Beedle and Associates, 2005. ISBN: 9781590280539.
 
-Miller, Bradley, and David Ranum. _Problem Solving with Algorithms and Data Structures Using Python_. Wilsonville, OR: Franklin, Beedle and Associates, 2005. ISBN: 9781590280539.
-
-Python
-------
+## Python
 
 [Python Tutorial](http://docs.python.org/tut/)
 
 [Dive Into Python](http://www.diveintopython.net/)
 
-[Debugging In Python](https://pythonconquerstheuniverse.wordpress.com/2009/09/10/debugging-in-python/)
+[Debugging In Python](https://docs.python.org/3/library/pdb.html)
 
 [6.01 Python Resource list](http://courses.csail.mit.edu/6.01/fall07/resource.html)
 
 [IPython](http://scipy-ipython.readthedocs.io/en/latest/), an enhanced interactive shell for use on the command line.
 
-Beazley, David. _Python: Essential Reference_. Upper Saddle River, NJ: Pearson Education, 2006. ISBN: 9780672328626.
+Beazley, David. *Python: Essential Reference*. Upper Saddle River, NJ: Pearson Education, 2006. ISBN: 9780672328626.
 
-LaTeX
------
+## LaTeX
 
 [LaTeX Tutorial](http://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/)
 
@@ -47,4 +44,4 @@ A (Not So) Short Introduction to LaTeX2e ([PDF - 2.2 MB](http://tug.ctan.org/tex
 
 [proTeXt](http://www.tug.org/protext/), based on MiKTeX (IDE for Windows)
 
-Kopka, Helmut, and Patrick Daly. _A Guide to LaTeX: Document Preparation for Beginners and Advanced Users_. 3rd ed. Reading, MA: Addison-Wesley, 1999. ISBN: 9780201398250.
+Kopka, Helmut, and Patrick Daly. *A Guide to LaTeX: Document Preparation for Beginners and Advanced Users*. 3rd ed. Reading, MA: Addison-Wesley, 1999. ISBN: 9780201398250.
