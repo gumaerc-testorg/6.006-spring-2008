@@ -2,6 +2,7 @@
 content_type: resource
 description: Recitation slides on AVL Trees (balanced binary search trees).
 file: /courses/6-006-introduction-to-algorithms-spring-2008/113ace033776d7ffb3e62334a3acdba4_recitation04.pdf
+file_size: 602792
 file_type: application/pdf
 learning_resource_types:
 - Recitations
