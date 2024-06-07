@@ -3,6 +3,7 @@ content_type: resource
 description: 'Supporting file for Problem set 4. Rubik''s Cube code. (This zip file
   includes: 7 .py files and 1 .txt file.)'
 file: /courses/6-006-introduction-to-algorithms-spring-2008/1118bef388d5c8d93a86e361bc4dda4b_ps4_rubik.zip
+file_size: 6516
 file_type: application/zip
 learning_resource_types:
 - Assignments

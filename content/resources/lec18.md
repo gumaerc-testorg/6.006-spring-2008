@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on shortest paths, single-source single-target Dijkstra,
   bidirectional search, and goal directed search - potentials and landmarks.
 file: /courses/6-006-introduction-to-algorithms-spring-2008/3993cca71130960cc5f1a55e8b8e1585_lec18.pdf
+file_size: 1257268
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

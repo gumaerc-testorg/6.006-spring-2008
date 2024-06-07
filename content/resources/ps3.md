@@ -2,6 +2,7 @@
 content_type: resource
 description: Handout 5 containing Problem set 3.
 file: /courses/6-006-introduction-to-algorithms-spring-2008/632e5899185f327a5e1374ff5a782362_ps3.pdf
+file_size: 95595
 file_type: application/pdf
 learning_resource_types:
 - Assignments

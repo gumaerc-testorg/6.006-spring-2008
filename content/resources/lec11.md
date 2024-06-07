@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on sorting, stable sorting, Radix sort, quick sort, and
   sorting races.
 file: /courses/6-006-introduction-to-algorithms-spring-2008/0c8bb24ef91668bfe85f1eaee80e72a0_lec11.pdf
+file_size: 1041886
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
