@@ -3,6 +3,7 @@ content_type: resource
 description: Supporting Python file for Recitation 4 on code for AVL trees (uses the
   BST code from R3).
 file: /courses/6-006-introduction-to-algorithms-spring-2008/3328a09bfcac5b0aede0e511ebd98051_avl_r.py
+file_size: 2670
 file_type: text/plain
 learning_resource_types:
 - Recitations

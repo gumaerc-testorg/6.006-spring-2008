@@ -3,6 +3,7 @@ content_type: resource
 description: 'Supporting files for Recitation 2. (This zip file includes: 2 .jpg files,
   1 .gz file, 1 .tiff file, 1 .numbers file, and 1 .pkginfo file.)'
 file: /courses/6-006-introduction-to-algorithms-spring-2008/34e6c343139fdd7540309daf829779e0_recitation02_data.zip
+file_size: 148717
 file_type: application/zip
 learning_resource_types:
 - Recitations

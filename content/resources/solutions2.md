@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to practice problems for Quiz 2.
 file: /courses/6-006-introduction-to-algorithms-spring-2008/4c351a8df3f564c723bf5a22dc27e172_solutions2.pdf
+file_size: 137515
 file_type: application/pdf
 learning_resource_types:
 - Exams

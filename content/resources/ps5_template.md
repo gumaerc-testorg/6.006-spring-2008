@@ -2,6 +2,7 @@
 content_type: resource
 description: LaTeX template for Problem set 5.
 file: /courses/6-006-introduction-to-algorithms-spring-2008/2436c51154bf793ec0248a27a4fd9994_ps5_template.tex
+file_size: 1304
 file_type: text/plain
 learning_resource_types:
 - Assignments

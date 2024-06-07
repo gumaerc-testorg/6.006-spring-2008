@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting Python file for Recitation 11 on code for depth-first search.
 file: /courses/6-006-introduction-to-algorithms-spring-2008/41c3e75648f930be2bf6fe8b787b4c85_dfs.py
+file_size: 1291
 file_type: text/plain
 learning_resource_types:
 - Recitations

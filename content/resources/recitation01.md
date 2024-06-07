@@ -2,6 +2,7 @@
 content_type: resource
 description: Recitation slides on document distance in Python (docdist{1,2,3,4}.py).
 file: /courses/6-006-introduction-to-algorithms-spring-2008/2fe73f0f61f143e7b919cd3cb921d1c8_recitation01.pdf
+file_size: 379372
 file_type: application/pdf
 learning_resource_types:
 - Recitations
