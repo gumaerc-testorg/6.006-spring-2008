@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Recitation slides on dynamic programming: beating Super Mario Brothers,
   getting points back on tests (LCS), and Crazy Eights.'
-file: /courses/6-006-introduction-to-algorithms-spring-2008/c107a54c3aa429507da4b01c85a2e9dd_recitation17.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/c107a54c3aa429507da4b01c85a2e9dd_recitation17.pdf
 file_size: 529049
 file_type: application/pdf
 learning_resource_types:

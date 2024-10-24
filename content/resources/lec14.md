@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on searching, BFS vs. DFS, job scheduling, topological
   sort, intractable problems, P, NP, and NP-completeness.
-file: /courses/6-006-introduction-to-algorithms-spring-2008/cdc627fbd05edbe0e9a480e45c8c827e_lec14.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/cdc627fbd05edbe0e9a480e45c8c827e_lec14.pdf
 file_size: 695895
 file_type: application/pdf
 learning_resource_types:

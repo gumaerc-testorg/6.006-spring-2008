@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on dynamic programming, piano fingering, structural DP
   (trees), vertex cover, dominating set, treewidth, planar graphs, and folding.
-file: /courses/6-006-introduction-to-algorithms-spring-2008/2ca17b35ce6a91d78745e876a1bdf1f7_lec22.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/2ca17b35ce6a91d78745e876a1bdf1f7_lec22.pdf
 file_size: 696637
 file_type: application/pdf
 learning_resource_types:
