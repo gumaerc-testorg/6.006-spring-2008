@@ -2,7 +2,7 @@
 content_type: resource
 description: Recitation slides with exam review questions and concluding discussion
   for the course.
-file: /courses/6-006-introduction-to-algorithms-spring-2008/d85d1907e0061aae7847f9872962d1c5_recitation23.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/d85d1907e0061aae7847f9872962d1c5_recitation23.pdf
 file_size: 451792
 file_type: application/pdf
 learning_resource_types:

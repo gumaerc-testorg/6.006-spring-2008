@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: LaTeX template for Problem set 6.
-file: /courses/6-006-introduction-to-algorithms-spring-2008/32a67064cd7f9fef4af6ad189ff55946_ps6_template.tex
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/32a67064cd7f9fef4af6ad189ff55946_ps6_template.tex
 file_size: 1304
 file_type: text/plain
 learning_resource_types:

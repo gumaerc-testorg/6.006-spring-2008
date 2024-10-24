@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture notes on dynamic programming, memoization and subproblems, Fibonacci,\
   \ shortest paths, crazy eights, and guessing viewpoint.\r\nGuessing Viewpoint"
-file: /courses/6-006-introduction-to-algorithms-spring-2008/113a6ea73c41ca9c8a817be58c99e3e4_lec19.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/113a6ea73c41ca9c8a817be58c99e3e4_lec19.pdf
 file_size: 508304
 file_type: application/pdf
 learning_resource_types:

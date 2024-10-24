@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Support Python file for Recitation 7 on open addressing code.
-file: /courses/6-006-introduction-to-algorithms-spring-2008/6e69e3f35036ed4ee806c46a843596a6_open_addressing_explicit.py
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/6e69e3f35036ed4ee806c46a843596a6_open_addressing_explicit.py
 file_size: 4041
 file_type: text/plain
 learning_resource_types:

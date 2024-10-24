@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Supporting file for Problem set 6. Progress code. (This zip file includes:
   2 .py files.)'
-file: /courses/6-006-introduction-to-algorithms-spring-2008/8935ea79af299bce6930065003b0f83d_ps6_progress.zip
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/8935ea79af299bce6930065003b0f83d_ps6_progress.zip
 file_size: 1301
 file_type: application/zip
 learning_resource_types:
