@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Practice problems to prepare students for Quiz 1.
-file: /courses/6-006-introduction-to-algorithms-spring-2008/af7c4d7d015bb24d82eaf16bfade52c2_quiz1.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/af7c4d7d015bb24d82eaf16bfade52c2_quiz1.pdf
 file_size: 125296
 file_type: application/pdf
 learning_resource_types:

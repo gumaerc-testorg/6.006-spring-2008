@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Supporting file for Problem set 1. Document distance code. (This zip
   file includes: 3 .py files and 5 .txt files.)'
-file: /courses/6-006-introduction-to-algorithms-spring-2008/f521391c3ebc4e41a16d5ee4f5e2094f_ps1_docdist.zip
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/f521391c3ebc4e41a16d5ee4f5e2094f_ps1_docdist.zip
 file_size: 2281491
 file_type: application/zip
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Supporting files for Problem set 6: All code for this problem set. (This
   zip file includes: 2 .png files, 10 .py files, and 1 .txt file.)'
-file: /courses/6-006-introduction-to-algorithms-spring-2008/35538eb57d843fd00c9d5c89efd779a9_ps6_all.zip
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/35538eb57d843fd00c9d5c89efd779a9_ps6_all.zip
 file_size: 289450
 file_type: application/zip
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Recitation slides on dynamic programming: maximum-sum sub-array and
   Tetris.'
-file: /courses/6-006-introduction-to-algorithms-spring-2008/2722a99c1b49cc24b994a9e08473a3d6_recitation18.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/2722a99c1b49cc24b994a9e08473a3d6_recitation18.pdf
 file_size: 411918
 file_type: application/pdf
 learning_resource_types:

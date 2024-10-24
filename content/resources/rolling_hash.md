@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Support Python file for Recitation 6 on rolling hash code.
-file: /courses/6-006-introduction-to-algorithms-spring-2008/43cf6b59b767a1620bbb19603a89793a_rolling_hash.py
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/43cf6b59b767a1620bbb19603a89793a_rolling_hash.py
 file_size: 3198
 file_type: text/plain
 learning_resource_types:
