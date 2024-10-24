@@ -20,8 +20,6 @@ Miller, Bradley, and David Ranum. *Problem Solving with Algorithms and Data Stru
 
 [Python Tutorial](http://docs.python.org/tut/)
 
-[Dive Into Python](http://www.diveintopython.net/)
-
 [Debugging In Python](https://docs.python.org/3/library/pdb.html)
 
 [6.01 Python Resource list](http://courses.csail.mit.edu/6.01/fall07/resource.html)
