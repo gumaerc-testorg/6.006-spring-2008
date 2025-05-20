@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation slides on breadth-first search and depth-first search.
-file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/a27380e87a415d4c2e9504f9f736b5e1_recitation11.pdf
+file: /courses/6-006-introduction-to-algorithms-spring-2008/a27380e87a415d4c2e9504f9f736b5e1_recitation11.pdf
 file_size: 480861
 file_type: application/pdf
 learning_resource_types:

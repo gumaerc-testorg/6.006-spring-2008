@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture notes on shortest paths in DAGs, shortest paths in graphs without\
   \ negative edges, and Dijkstra\u2019s algorithm."
-file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/de8d43b3546789a5dc677ae5c5915ff0_lec17.pdf
+file: /courses/6-006-introduction-to-algorithms-spring-2008/de8d43b3546789a5dc677ae5c5915ff0_lec17.pdf
 file_size: 673929
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout 4 containing Problem set 2.
-file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/fa7e40b3da81b27f4e1170e38795a9a8_ps2.pdf
+file: /courses/6-006-introduction-to-algorithms-spring-2008/fa7e40b3da81b27f4e1170e38795a9a8_ps2.pdf
 file_size: 123625
 file_type: application/pdf
 learning_resource_types:
