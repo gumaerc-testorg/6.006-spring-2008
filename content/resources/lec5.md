@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture notes on hashing, dictionaries and Python, motivation, hash\
   \ functions, chaining, simple uniform hashing, and \u201CGood\u201D hash functions."
-file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/3319dd2c718ac545917c4212920b1b2e_lec5.pdf
+file: /courses/6-006-introduction-to-algorithms-spring-2008/3319dd2c718ac545917c4212920b1b2e_lec5.pdf
 file_size: 904571
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Practice problems to prepare students for the Final Exam.
-file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/fa8475a5b4cb57d5e857582983ba1e32_final.pdf
+file: /courses/6-006-introduction-to-algorithms-spring-2008/fa8475a5b4cb57d5e857582983ba1e32_final.pdf
 file_size: 102515
 file_type: application/pdf
 learning_resource_types:

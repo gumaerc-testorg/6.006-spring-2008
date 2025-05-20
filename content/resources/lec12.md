@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on searching, graph search, applications, graph representations,
   and introduction to breadth-first and depth-first search.
-file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/2f8908fe7e97f9dd84810e7e48d4f75e_lec12.pdf
+file: /courses/6-006-introduction-to-algorithms-spring-2008/2f8908fe7e97f9dd84810e7e48d4f75e_lec12.pdf
 file_size: 1729480
 file_type: application/pdf
 learning_resource_types:

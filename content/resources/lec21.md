@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture notes on text justi\x1Ccation, parenthesization, knapsack, pseudopolynomial\
   \ time, and Tetris training."
-file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/bfbad56de149e6245cc371bc918982cb_lec21.pdf
+file: /courses/6-006-introduction-to-algorithms-spring-2008/bfbad56de149e6245cc371bc918982cb_lec21.pdf
 file_size: 711526
 file_type: application/pdf
 learning_resource_types:

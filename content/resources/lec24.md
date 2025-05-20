@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on numerics, high precision arithmetic, multiplication,
   division, error analysis, and termination.
-file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/aa3e9625cd91ee9a3c93944f340fcaa1_lec24.pdf
+file: /courses/6-006-introduction-to-algorithms-spring-2008/aa3e9625cd91ee9a3c93944f340fcaa1_lec24.pdf
 file_size: 175181
 file_type: application/pdf
 learning_resource_types:

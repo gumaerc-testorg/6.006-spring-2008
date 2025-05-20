@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on searching, breadth-first search, shortest paths, depth-first
   search, and edge classification.
-file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/8dc7d6c434f775123e1bf906c2773939_lec13.pdf
+file: /courses/6-006-introduction-to-algorithms-spring-2008/8dc7d6c434f775123e1bf906c2773939_lec13.pdf
 file_size: 1407054
 file_type: application/pdf
 learning_resource_types:

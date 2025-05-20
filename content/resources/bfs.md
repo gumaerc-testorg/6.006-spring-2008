@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting Python file for Recitation 11 on code for breadth-first search.
-file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/a55d4d0549da8e57fac45ed852fe906e_bfs.py
+file: /courses/6-006-introduction-to-algorithms-spring-2008/a55d4d0549da8e57fac45ed852fe906e_bfs.py
 file_size: 1186
 file_type: text/plain
 learning_resource_types:

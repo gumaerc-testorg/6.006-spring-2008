@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to practice problems for Quiz 1.
-file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/dd3f6f75b10ee049ad00e0b4c348e194_solutions1.pdf
+file: /courses/6-006-introduction-to-algorithms-spring-2008/dd3f6f75b10ee049ad00e0b4c348e194_solutions1.pdf
 file_size: 148350
 file_type: application/pdf
 learning_resource_types:
