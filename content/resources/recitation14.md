@@ -2,7 +2,7 @@
 content_type: resource
 description: Recitation slides on Dijkstra (pseudocode, preconditions, examples, why
   it works) and priority queues (review, extended Python implementation).
-file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/f092477e826b26a9a26fd192bd2ec2b2_recitation14.pdf
+file: /courses/6-006-introduction-to-algorithms-spring-2008/f092477e826b26a9a26fd192bd2ec2b2_recitation14.pdf
 file_size: 449835
 file_type: application/pdf
 learning_resource_types:

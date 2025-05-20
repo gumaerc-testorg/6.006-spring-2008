@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting Python file for Recitation 5 on the dangers of mutable dictionary
   keys.
-file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/c325ca1799dd86edcaf613d3afd00ed3_mutable_dictkey.py
+file: /courses/6-006-introduction-to-algorithms-spring-2008/c325ca1799dd86edcaf613d3afd00ed3_mutable_dictkey.py
 file_size: 1193
 file_type: text/plain
 learning_resource_types:

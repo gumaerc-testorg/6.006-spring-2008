@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Supporting file for Problem set 6. Change code. (This zip file includes:
   2 .py files.)'
-file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/fd2ccf304d8c78a5a0dfc52ae436f721_ps6_change.zip
+file: /courses/6-006-introduction-to-algorithms-spring-2008/fd2ccf304d8c78a5a0dfc52ae436f721_ps6_change.zip
 file_size: 1195
 file_type: application/zip
 learning_resource_types:

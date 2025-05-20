@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on dynamic programming, longest common subsequence, bottom-up
   implementation, and parent pointers for guesses.
-file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/1986024fc785732d48dc2e8d3780df1b_lec20.pdf
+file: /courses/6-006-introduction-to-algorithms-spring-2008/1986024fc785732d48dc2e8d3780df1b_lec20.pdf
 file_size: 531012
 file_type: application/pdf
 learning_resource_types:

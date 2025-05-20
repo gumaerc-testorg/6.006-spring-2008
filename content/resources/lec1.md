@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes with an introduction to the course and discussion of the
   document distance problem.
-file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/db4aebc0875e0e3541d08d767dc5f54f_lec1.pdf
+file: /courses/6-006-introduction-to-algorithms-spring-2008/db4aebc0875e0e3541d08d767dc5f54f_lec1.pdf
 file_size: 192183
 file_type: application/pdf
 learning_resource_types:

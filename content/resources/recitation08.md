@@ -2,7 +2,7 @@
 content_type: resource
 description: Recitation slides with an overview of sorting methods and discussion
   of heaps as data structures.
-file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/a29d132e29f41225b5d02713875ac3d3_recitation08.pdf
+file: /courses/6-006-introduction-to-algorithms-spring-2008/a29d132e29f41225b5d02713875ac3d3_recitation08.pdf
 file_size: 788470
 file_type: application/pdf
 learning_resource_types:

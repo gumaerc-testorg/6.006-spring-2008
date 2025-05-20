@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes with a list of follow-on classes on algorithms and theory.
-file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/a729b497844a141db1f1e52cb5b9cb69_lec25.pdf
+file: /courses/6-006-introduction-to-algorithms-spring-2008/a729b497844a141db1f1e52cb5b9cb69_lec25.pdf
 file_size: 97227
 file_type: application/pdf
 learning_resource_types:
