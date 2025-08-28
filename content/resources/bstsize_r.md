@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting Python file for Recitation 3 on code for binary search trees
   augmented with subtree size.
-file: /courses/6-006-introduction-to-algorithms-spring-2008/e31d1f409ec2d488d9729a18a3b73f6d_bstsize_r.py
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/e31d1f409ec2d488d9729a18a3b73f6d_bstsize_r.py
 file_size: 8334
 file_type: text/plain
 learning_resource_types:

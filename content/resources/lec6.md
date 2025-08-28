@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on hashing, table doubling, table resizing, amortization,
   string matching and Karp-Rabin, and rolling hash.
-file: /courses/6-006-introduction-to-algorithms-spring-2008/2cc0efa30d154a5ec5e161a0adcfc373_lec6.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/2cc0efa30d154a5ec5e161a0adcfc373_lec6.pdf
 file_size: 791974
 file_type: application/pdf
 learning_resource_types:
