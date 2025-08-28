@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on shortest paths, weighted graphs, negative edges, and
   optimal substructure.
-file: /courses/6-006-introduction-to-algorithms-spring-2008/a989a9d01e81b1421c232248eae2795e_lec15.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/a989a9d01e81b1421c232248eae2795e_lec15.pdf
 file_size: 1039669
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation slides on Karp-Rabin, rolling hashes principles, and code.
-file: /courses/6-006-introduction-to-algorithms-spring-2008/8e4bb819e77befa638a4cbe1fee9c261_recitation06.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/8e4bb819e77befa638a4cbe1fee9c261_recitation06.pdf
 file_size: 432281
 file_type: application/pdf
 learning_resource_types:

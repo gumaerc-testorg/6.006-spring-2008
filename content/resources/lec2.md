@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on improving the algorithm for solving the document distance
   problem.
-file: /courses/6-006-introduction-to-algorithms-spring-2008/0084579211f6874fb95258a10a701ae3_lec2.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/0084579211f6874fb95258a10a701ae3_lec2.pdf
 file_size: 714288
 file_type: application/pdf
 learning_resource_types:
