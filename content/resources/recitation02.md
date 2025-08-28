@@ -2,7 +2,7 @@
 content_type: resource
 description: Recitation slides on the Python cost model, asymptotic notation, and
   mergesort.
-file: /courses/6-006-introduction-to-algorithms-spring-2008/2035a9a254b60ac6da85944bba3a48b1_recitation02.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/2035a9a254b60ac6da85944bba3a48b1_recitation02.pdf
 file_size: 511600
 file_type: application/pdf
 learning_resource_types:

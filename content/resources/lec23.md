@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on numerics, irrationals, Newton's method, and high precision
   multiplication.
-file: /courses/6-006-introduction-to-algorithms-spring-2008/91770ad0733c823eaa5816fed6d7e3fc_lec23.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-spring-2008/91770ad0733c823eaa5816fed6d7e3fc_lec23.pdf
 file_size: 872564
 file_type: application/pdf
 learning_resource_types:
