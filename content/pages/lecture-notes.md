@@ -29,13 +29,13 @@ L1
 {{< tdclose >}}{{< tdopen >}}
 Introduction and document distance ({{% resource_link "db4aebc0-875e-0e35-41d0-8d767dc5f54f" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-[Document distance](https://ocw-studio.odl.mit.edu/ans7870/6/6.006/s08/lecturenotes/dd_prog1.htm) (docdist{1,2,3,4}.py)
+{{% resource_link "31ac92c2-8c78-49b2-b4ca-bdf0123d9259" "Document distance" %}} (docdist{1,2,3,4}.py)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L2
 {{< tdclose >}}{{< tdopen >}}
 More document distance, mergesort ({{% resource_link "00845792-11f6-874f-b952-58a10a701ae3" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-[Document distance](https://ocw-studio.odl.mit.edu/ans7870/6/6.006/s08/lecturenotes/dd_prog5.htm) (docdist{5,6}.py)
+{{% resource_link "48b758bc-7da5-45df-a159-be6553ccc341" "Document distance" %}} (docdist{5,6}.py)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Binary search trees**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -43,13 +43,13 @@ L3
 {{< tdclose >}}{{< tdopen >}}
 Airplane scheduling, binary search trees ({{% resource_link "26f81dc8-53b4-980d-8c08-73c0f8875268" "PDF - 1.4 MB" %}})
 {{< tdclose >}}{{< tdopen >}}
-[Binary search trees](https://ocw-studio.odl.mit.edu/ans7870/6/6.006/s08/lecturenotes/search.htm) (including code)
+{{% resource_link "60f4400e-918f-409a-8c8c-4fe279bbbe8d" "Binary search trees" %}} (including code)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L4
 {{< tdclose >}}{{< tdopen >}}
 Balanced binary search trees ({{% resource_link "1f940ab4-5156-183a-323e-dd0011317452" "PDF - 1.2 MB" %}})
 {{< tdclose >}}{{< tdopen >}}
-See [binary search trees](https://ocw-studio.odl.mit.edu/ans7870/6/6.006/s08/lecturenotes/search.htm) for AVL code
+See {{% resource_link "60f4400e-918f-409a-8c8c-4fe279bbbe8d" "binary search trees" %}} for AVL code
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Hashing**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -57,7 +57,7 @@ L5
 {{< tdclose >}}{{< tdopen >}}
 Hashing I: chaining, hash functions ({{% resource_link "3319dd2c-718a-c545-917c-4212920b1b2e" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-[Document distance](https://ocw-studio.odl.mit.edu/ans7870/6/6.006/s08/lecturenotes/dd_dict.htm) (docdist-dict.py)
+{{% resource_link "7bf9d353-181f-4b89-bc6a-158645ec9716" "Document distance" %}} (docdist-dict.py)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L6
 {{< tdclose >}}{{< tdopen >}}
@@ -193,5 +193,5 @@ L25
 {{< tdclose >}}{{< tdopen >}}
 Beyond 6.006: follow-on classes, geometric folding algorithms ({{% resource_link "a729b497-844a-141d-b1f1-e52cb5b9cb69" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-If you are interested in folding algorithms, you can look at the [previous offering of 6.885](http://courses.csail.mit.edu/6.885/fall07/) and the [associated textbook](http://www.gfalop.org/).
+If you are interested in folding algorithms, you can look at the {{% resource_link "af2eddcd-6c79-43d6-b0de-94827025b4a4" "previous offering of 6.885" %}} and the {{% resource_link "84d0bb83-38f8-4734-b54a-9a5946a218d4" "associated textbook" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
