@@ -97,7 +97,7 @@ Textbook
 
 The primary written reference for the course is the following textbook:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262032933) Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. [_Introduction to Algorithms_](https://mitpress.mit.edu/9780262032933). 2nd ed. Cambridge, MA: MIT Press, 2001. ISBN: 9780262032933.
+{{% resource_link "fa1657af-9640-4804-9b33-e79d4a1a2f4c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. {{% resource_link "fa1657af-9640-4804-9b33-e79d4a1a2f4c" "_Introduction to Algorithms_" %}}. 2nd ed. Cambridge, MA: MIT Press, 2001. ISBN: 9780262032933.
 
 We also recommend:
 

@@ -123,7 +123,7 @@ Image resizing code ({{% resource_link d6f1166e-5e31-a3db-b5de-b46edbcf3818 "ZIP
 
 All code for this problem set ({{% resource_link 35538eb5-7d84-3fd0-0c9d-5c89efd779a9 "ZIP" %}}) (This zip file includes: 2 .png files, 10 .py files, and 1 .txt file.)
 
-The paper and video for Problem 4 can be found here: [Seam Carving for Content-Aware Image Resizing](https://dl.acm.org/citation.cfm?id=1276390)
+The paper and video for Problem 4 can be found here: {{% resource_link "aa61a4bd-ca6b-4e38-be05-a04682081e67" "Seam Carving for Content-Aware Image Resizing" %}}
 
 
 {{< tdclose >}}

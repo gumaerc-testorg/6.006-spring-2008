@@ -14,7 +14,7 @@ video_metadata:
 
 In the table below, readings listed as CLRS are taken from the course textbook:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262032933) Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. [_Introduction to Algorithms_](https://mitpress.mit.edu/9780262032933). 2nd ed. Cambridge, MA: MIT Press, 2001. ISBN: 9780262032933.
+{{% resource_link "fa1657af-9640-4804-9b33-e79d4a1a2f4c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. {{% resource_link "fa1657af-9640-4804-9b33-e79d4a1a2f4c" "_Introduction to Algorithms_" %}}. 2nd ed. Cambridge, MA: MIT Press, 2001. ISBN: 9780262032933.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -351,7 +351,7 @@ Parncutt, Richard, et al. "An Ergonomic Model of Keyboard Fingering for Melodic 
 
 Al Kasimi, Alia, Eric Nichols, and Christopher Raphael. "A Simple Algorithm for Automatic Generation of Polyphonic Piano Fingerings." In _Proceedings of the 8th International Conference on Music Information Retrieval_, 2007, pp. 355-356.
 
-For fun, watch the [Metamorphosis of the Cube](http://erikdemaine.org/metamorphosis/) video, which illustrates a folding DP.
+For fun, watch the {{% resource_link "91345272-d37d-46b1-8dde-57da44264135" "Metamorphosis of the Cube" %}} video, which illustrates a folding DP.
 
 
 {{< tdclose >}}
